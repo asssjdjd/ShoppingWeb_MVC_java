@@ -30,5 +30,4 @@ public class HomeControllers {
     @GetMapping("/product")
     public String Product(){return "view_product";}
 
-
 }
